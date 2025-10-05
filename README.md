@@ -53,8 +53,6 @@ I design and deploy **end-to-end predictive pipelines** — from data acquisitio
 
 ---
 
----
-
 ## 🧾 Publications
 
 ### 🧠 Journal Articles
@@ -93,10 +91,6 @@ I design and deploy **end-to-end predictive pipelines** — from data acquisitio
 - Brain–Computer Interface Society (BCI)  
 - Institute of Electrical and Electronics Engineers (IEEE)  
 - IEEE Engineering in Medicine and Biology Society (EMBS)  
-
----
-
-
 
 ---
 

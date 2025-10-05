@@ -3,6 +3,9 @@ title: Suleman Rasheed
 #logo: relative path of the image
 #description: add text under the fig/dp
 #show_downloads: true
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 #theme: jekyll-theme-slate
 #theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme

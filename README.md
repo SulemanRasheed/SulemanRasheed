@@ -5,7 +5,7 @@
 ---
 -->
 
-Suleman Rasheed **Data Scientist (PhD)** with 6 years of academic and 2+ years of professional experience in **machine learning**, **Python**, and **cloud computing**.  
+Suleman Rasheed is a **Data Scientist (PhD)** with 6 years of academic and 2+ years of professional experience in **machine learning**, **Python**, and **cloud computing**.  
 He is an expert in designing and deploying **end-to-end predictive pipelines**, delivering measurable real-world impact across biomedical, behavioural, and research domains.
 
 ---

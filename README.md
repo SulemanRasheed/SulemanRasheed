@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 # Data Scientist
 
 ### Education
-PhD in Biomedical Engineering
-BS in Electrical Engineering
+- PhD in Biomedical Engineering
+- BS in Electrical Engineering
 
 
 ### Experience

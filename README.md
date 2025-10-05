@@ -11,6 +11,7 @@ He is an expert in designing and deploying **end-to-end predictive pipelines**, 
 ---
 
 ## 🧩 Skills
+
 | Area | Tools & Technologies |
 |------|----------------------|
 | **Programming** | Python, R, C/C++, SQL |

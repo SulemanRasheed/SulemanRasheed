@@ -1,14 +1,12 @@
-# Suleman Rasheed  
 <!--
+# Suleman Rasheed  
 📍 Melbourne, Australia | 📞 +61 467 027 013 | ✉️ [SulemanRasheedEngr@gmail.com](mailto:SulemanRasheedEngr@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/suleman-rasheed/) • [GitHub](https://github.com/SulemanRasheed) • [Google Scholar](https://scholar.google.com/citations?user=wUt7qi0AAAAJ&hl=en)
+---
 -->
 
----
-
-## 🧠 Summary
-**Data Scientist (PhD)** with 6+ years of academic and 2 years of professional experience in **machine learning**, **Python**, and **cloud computing**.  
-I design and deploy **end-to-end predictive pipelines** — from data acquisition to deployment — delivering measurable real-world impact across biomedical, behavioural, and research domains.
+Suleman Rasheed **Data Scientist (PhD)** with 6 years of academic and 2+ years of professional experience in **machine learning**, **Python**, and **cloud computing**.  
+He is an expert in designing and deploying **end-to-end predictive pipelines**, delivering measurable real-world impact across biomedical, behavioural, and research domains.
 
 ---
 

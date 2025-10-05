@@ -24,9 +24,9 @@ BS in Electrical Engineering
 
 
 ### Experience
-Data Scientist @ School of Sufi Teachings, Australia
-Data Scientist - Intern @ Synchron Inc, Australia
-Research Assistant - National University of Sciences & Technology, Pakistan
+1. Data Scientist @ School of Sufi Teachings, Australia
+2. Data Scientist - Intern @ Synchron Inc, Australia
+3. Research Assistant - National University of Sciences & Technology, Pakistan
 
 
 ### Skills

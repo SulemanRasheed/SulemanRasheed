@@ -3,6 +3,6 @@ logo : /images/Profile_Pic.jpg
 #logo: relative path of the image
 #description: add text under the fig/dp
 #show_downloads: true
-theme: jekyll-theme-minimal
-#theme: jekyll-theme-slate
+#theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 #theme: minima

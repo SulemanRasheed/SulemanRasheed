@@ -1,6 +1,8 @@
 # Suleman Rasheed  
+<!--
 📍 Melbourne, Australia | 📞 +61 467 027 013 | ✉️ [SulemanRasheedEngr@gmail.com](mailto:SulemanRasheedEngr@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/suleman-rasheed/) • [GitHub](https://github.com/SulemanRasheed) • [Google Scholar](https://scholar.google.com/citations?user=wUt7qi0AAAAJ&hl=en)
+-->
 
 ---
 

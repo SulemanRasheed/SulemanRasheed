@@ -1,3 +1,4 @@
+<!-- ## About -->
 
 Suleman Rasheed is a **Data Science Expert (PhD)** with six years of academic and over two years of professional experience in machine learning, Python, and healthcare analytics.
 He designs and deploys end-to-end predictive pipelines that deliver measurable real-world impact across biomedical, behavioural, and research domains.

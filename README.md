@@ -52,8 +52,8 @@ Thesis: “Driver Drowsiness Detection using Lightweight Deep Convolutional Neur
 | **Deployment** | Git, CI/CD, Docker, Kubernetes, FastAPI, MLflow |
 | **Data Visualisation** | Power BI, Plotly, R Shiny, Excel, Matplotlib |
 | **Cloud Platforms** | Azure, AWS, Databricks |
-| **Computer Vision** | Face Detection, Object Tracking, Facial Landmarks Detection |
-| **Hardware** | Raspberry Pi, Arduino, Camera Systems, Eye Trackers, EEG, ECG, Fitness Trackers |
+| **Computer Vision** | Face Detection, Object Tracking, Facial Landmarks Detection, OpenCV |
+| **Hardware** | Raspberry Pi, Arduino, Eye Trackers, EEG, ECG, Fitness Trackers |
 | **Qualitative Research** | Interviews (Zoom, Meet, Teams), Transcription (Otter.ai), Analysis (NVivo) |
 | **Compliance** | ICH-GCP, ISO 13485, IEC 62304 |
 

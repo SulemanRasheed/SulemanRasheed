@@ -121,8 +121,8 @@ Developed to help health economists and hospital analysts explore cost variabili
 [<img src="https://img.shields.io/badge/Data-1E90FF?logo=databricks&logoColor=white" height="22">](https://github.com/5anirban9/Clinical-Brain-Computer-Interfaces-Challenge-WCCI-2020-Glasgow)
 [<img src="https://img.shields.io/badge/Publication-FF6F00?logo=readthedocs&logoColor=white" height="22">](https://ieeexplore.ieee.org/document/9445231)
 
-Benchmarked EEG-based Brain–Computer Interface (BCI) pipelines for decoding motor imagery in stroke patients.  
-Implemented five algorithms in Python — from CSP / FBCSP and PSD / Wavelets to EEGNet (deep learning).
+Benchmarked EEG-based Brain–Computer Interface (BCI) pipelines for decoding motor imagery in stroke patients.
+Implemented and compared five algorithms in Python, ranging from traditional feature extraction methods (CSP, FBCSP, PSD, Wavelets) to deep learning models such as EEGNet.
 
 **Findings:**  
 - FBCSP achieved the highest within-subject accuracy (~84.8%)  

@@ -10,7 +10,6 @@ Based in Melbourne, Australia, Suleman is open to collaborations and data-driven
 Suleman Rasheed is a Data Scientist/Analyst (PhD) with 5 years of academic and 2+ years of professional experience in data analytics, statistical modelling, and machine learning.
 He applies Python, R, SQL, and Power BI to build data-driven solutions, deliver insights, and support evidence-based decisions across research and industry settings.
 
-**Contact:**   
 [<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="20">](mailto:SulemanRasheedEngr@gmail.com)
 &nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="20">](https://www.linkedin.com/in/suleman-rasheed/)
 &nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" height="20">](https://github.com/SulemanRasheed)

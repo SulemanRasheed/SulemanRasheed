@@ -6,7 +6,7 @@ logo : /images/Profile_Pic.jpg
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-slate
 #theme: minima
-theme: jekyll-theme-modernist
+theme: jekyll-theme-cayman
 
 description: "Biomedical Engineer | Data Scientist"
 markdown: kramdown

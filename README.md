@@ -57,58 +57,73 @@ Suleman is based in **Melbourne, Australia**, and open to collaborations and dat
 
 ## Portfolio Projects
 
-### 1. Monash Health Surgery Wait Times Dashboard  
-A Power BI dashboard comparing elective surgery wait times by urgency (2018–2023) at Monash Health.  
-It enables real-time tracking of compliance rates, volumes, and median wait durations for operational planning.  
+Showcasing end-to-end data science and analytics projects across healthcare, environment, and brain–computer interface applications.  
+Each project highlights the use of Python, Power BI, R, and cloud-based analytical tools for real-world data-driven impact.
 
-Tools: Power BI, Excel, DAX, AIHW Open Data
+---
+
+## 1️⃣ Monash Health Surgery Wait Times Dashboard  
+
+[<img src="https://img.shields.io/badge/Code-171515?logo=github&logoColor=white" height="22">](https://github.com/SulemanRasheed/Monash-Health-Surgery-Wait-Times)
+[<img src="https://img.shields.io/badge/Data-1E90FF?logo=databricks&logoColor=white" height="22">](https://www.aihw.gov.au/hospitals/latest-updates-and-downloads/data)
+
+A Power BI dashboard comparing elective surgery wait times by urgency (2018–2023) at Monash Health.  
+It enables real-time tracking of compliance rates, volumes, and median wait durations for operational planning.
+
+**Tools:** Power BI, Excel, DAX, AIHW Open Data  
 
 ![Monash Health Surgery Wait Times Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Monash%20Health%20Surgery%20Wait%20Times%20Dashboard.png?raw=true)
 
-Code / Dashboard: [GitHub Repository](https://github.com/SulemanRasheed/Monash-Health-Surgery-Wait-Times)  
-Data: [AIHW Dataset](https://www.aihw.gov.au/hospitals/latest-updates-and-downloads/data)
-
 ---
 
-### 2. Victoria EPA Air Quality Dashboard  
-An interactive R Shiny app visualising 2024 air-quality data from EPA Victoria.  
-Users can select suburb and pollutant to explore daily NO₂ trends through a calendar heatmap for environmental awareness and public health insights.  
+## 2️⃣ Victoria EPA Air Quality Dashboard  
 
-Tools: R, Shiny, ggplot2, dplyr, EPA Open Data API
+[<img src="https://img.shields.io/badge/Dashboard-00B3E6?logo=R&logoColor=white" height="22">](https://sulemanrasheed.shinyapps.io/Victoria_Air_Quality_EPA_2024_Data/)
+[<img src="https://img.shields.io/badge/Code-171515?logo=github&logoColor=white" height="22">](https://github.com/SulemanRasheed/VictoriaEPA-AirQuality)
+[<img src="https://img.shields.io/badge/Data-1E90FF?logo=databricks&logoColor=white" height="22">](https://discover.data.vic.gov.au/dataset/epa-air-watch-all-sites-air-quality-hourly-averages-yearly)
+
+An interactive R Shiny app visualising 2024 air-quality data from EPA Victoria.  
+Users can select suburb and pollutant to explore daily NO₂ trends through a calendar heatmap for environmental awareness and public health insights.
+
+**Tools:** R, Shiny, ggplot2, dplyr, EPA Open Data API  
 
 ![Victoria EPA Air Quality Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Victoria%20EPA%20Air%20Quality%20Dashboard.png?raw=true)
 
-Dashboard: [Live App](https://sulemanrasheed.shinyapps.io/Victoria_Air_Quality_EPA_2024_Data/)  
-Code: [GitHub Repository](https://github.com/SulemanRasheed/VictoriaEPA-AirQuality)  
-Data: [EPA Dataset](https://discover.data.vic.gov.au/dataset/epa-air-watch-all-sites-air-quality-hourly-averages-yearly)
-
 ---
 
-### 3. Healthcare Financial Dashboard  
-An interactive Power BI dashboard visualising healthcare billing, treatment costs, insurance coverage, and demographic disparities across Australia.  
-Developed to help health economists and hospital analysts explore cost variability and resource efficiency.  
+## 3️⃣ Healthcare Financial Dashboard  
 
-Tools: Power BI, SQL, DAX, Open Healthcare Cost Data
+[<img src="https://img.shields.io/badge/Code-171515?logo=github&logoColor=white" height="22">](https://github.com/SulemanRasheed/Healthcare-Financial-Dashboard-PowerBI-Australia)
+
+An interactive Power BI dashboard visualising healthcare billing, treatment costs, insurance coverage, and demographic disparities across Australia.  
+Developed to help health economists and hospital analysts explore cost variability and resource efficiency.
+
+**Tools:** Power BI, SQL, DAX, Open Healthcare Cost Data  
 
 ![Healthcare Financial Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Healthcare%20Financial%20Dashboard.png?raw=true)
 
-Code / Dashboard: [GitHub Repository](https://github.com/SulemanRasheed/Healthcare-Financial-Dashboard-PowerBI-Australia)
+---
+
+## 4️⃣ Predicting Hand Movements of Stroke Patients from Brain Signals  
+
+[<img src="https://img.shields.io/badge/Code-171515?logo=github&logoColor=white" height="22">](https://github.com/SulemanRasheed/EEG-HandGrasp-Classification)
+[<img src="https://img.shields.io/badge/Data-1E90FF?logo=databricks&logoColor=white" height="22">](https://github.com/5anirban9/Clinical-Brain-Computer-Interfaces-Challenge-WCCI-2020-Glasgow)
+[<img src="https://img.shields.io/badge/Publication-FF6F00?logo=readthedocs&logoColor=white" height="22">](https://ieeexplore.ieee.org/document/9445231)
+
+Benchmarked EEG-based Brain–Computer Interface (BCI) pipelines for decoding motor imagery in stroke patients.  
+Implemented five algorithms in Python — from CSP / FBCSP and PSD / Wavelets to EEGNet (deep learning).
+
+**Findings:**  
+- FBCSP achieved the highest within-subject accuracy (~84.8%)  
+- EEGNet provided the strongest cross-subject generalisation (~77.0%)  
+This benchmark supports the development of assistive robotic and rehabilitation BCIs.
+
+**Tools:** Python, NumPy, SciPy, scikit-learn, MNE-Python, Matplotlib  
+
+![EEG Hand Grasp Classification](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/EEG%20Hand%20Grasp%20Classification%20.png?raw=true)
 
 ---
 
-### 4. Predicting Hand Movements of Stroke Patients from Brain Signals  
-Benchmarked EEG-based Brain–Computer Interface (BCI) pipelines for decoding motor imagery in stroke patients.  
-Implemented five algorithms in Python — from CSP / FBCSP and PSD / Wavelets to EEGNet (deep learning).  
-
-Findings:  
-- FBCSP achieved the highest within-subject accuracy (~84.8%).  
-- EEGNet provided the strongest cross-subject generalisation (~77.0%).  
-This benchmark supports the development of assistive robotic and rehabilitation BCIs.  
-
-Tools: Python, NumPy, SciPy, scikit-learn, MNE-Python, Matplotlib  
-Code: [GitHub Repository](https://github.com/SulemanRasheed/EEG-HandGrasp-Classification)  
-Data: [Clinical BCI Dataset](https://github.com/5anirban9/Clinical-Brain-Computer-Interfaces-Challenge-WCCI-2020-Glasgow)  
-Publication: [IEEE ICAI, 2021](https://ieeexplore.ieee.org/document/9445231)
 
 ---
 ## Publications

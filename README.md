@@ -123,9 +123,6 @@ This benchmark supports the development of assistive robotic and rehabilitation 
 ![EEG Hand Grasp Classification](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/EEG%20Hand%20Grasp%20Classification%20.png?raw=true)
 
 ---
-
-
----
 ## Publications
 
 <details>

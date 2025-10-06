@@ -137,11 +137,6 @@ This benchmark supports the development of assistive robotic and rehabilitation 
 ---
 ## Publications
 
-<details>
-<summary><strong>Click to expand</strong></summary>
-
-<div markdown="1">
-
 **Journal Articles**
 
 - **Suleman Rasheed**, James Bennett, Peter Yoo, Anthony Burkitt, David Grayden.  
@@ -151,8 +146,6 @@ This benchmark supports the development of assistive robotic and rehabilitation 
 - Wajid Mumtaz, **Suleman Rasheed**, Alina Irfan.  
   *Review of Challenges Associated with EEG Artefact Removal Methods.*  
   [*Biomedical Signal Processing and Control, 2021*](https://doi.org/10.1016/j.bspc.2021.102741)
-
-<br>
 
 **Conference Papers**
 
@@ -164,16 +157,11 @@ This benchmark supports the development of assistive robotic and rehabilitation 
   *Classification of Hand-Grasp Movements of Stroke Patients using EEG Data.*  
   [*IEEE International Conference on Artificial Intelligence (ICAI), 2021*](https://doi.org/10.1109/ICAI52203.2021.9445231)
 
-<br>
-
 **Abstracts / Posters**
 
 - *Predicting Eye Movement Intentions from Brain Signals.* — ICNS NeuroEng Workshop, 2025  
 - *Decoding Eye Movements from Brain Signals.* — IEEE EMBC, 2023  
 - *Removing Cardiac Artefacts from Endovascular Interface Data.* — ICNS NeuroEng Workshop, 2023
-
-</div>
-</details>
 
 ---
 

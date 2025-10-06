@@ -196,6 +196,7 @@ Wajid Mumtaz, Suleman Rasheed, Alina Irfan.
 
 ---
 
+<!--
 ## Honours & Awards
 
 <details>
@@ -211,12 +212,12 @@ Wajid Mumtaz, Suleman Rasheed, Alina Irfan.
 </details>
 
 ---
-
+-->
 
 
 ## Honours & Awards
 - PhD Write-up Award, The University of Melbourne (2025)
-- Australian Research Council Industrial Transformative Tranining Centre (ARC ITTC) Travel Grant, The University of Melbourne (2024)
+- Australian Research Council Industrial Transformation Training Centre (ARC ITTC) Travel Grant, The University of Melbourne (2024)
 - Faculty of Engineering and IT Conference Travel Grant, The University of Melbourne (2023 & 2024)
 - BME GR Conference Attendance Award, The University of Melbourne (2022)
 - ARC ITTC Top-up Scholarship, The University of Melbourne (2021)

@@ -139,23 +139,15 @@ This benchmark supports the development of assistive robotic and rehabilitation 
 
 **Journal Articles**
 
-- **Suleman Rasheed**, James Bennett, Peter Yoo, Anthony Burkitt, David Grayden.  
-  *Decoding Saccadic Eye Movements from Brain Signals Using an Endovascular Neural Interface.*  
-  [*Journal of Neural Engineering, 2025*](https://iopscience.iop.org/article/10.1088/1741-2552/ae0f52)
+- **Suleman Rasheed**, James Bennett, Peter Yoo, Anthony Burkitt, David Grayden. *Decoding Saccadic Eye Movements from Brain Signals Using an Endovascular Neural Interface.* [*Journal of Neural Engineering, 2025*](https://iopscience.iop.org/article/10.1088/1741-2552/ae0f52)
 
-- Wajid Mumtaz, **Suleman Rasheed**, Alina Irfan.  
-  *Review of Challenges Associated with EEG Artefact Removal Methods.*  
-  [*Biomedical Signal Processing and Control, 2021*](https://doi.org/10.1016/j.bspc.2021.102741)
+- Wajid Mumtaz, **Suleman Rasheed**, Alina Irfan. *Review of Challenges Associated with EEG Artefact Removal Methods.* [*Biomedical Signal Processing and Control, 2021*](https://doi.org/10.1016/j.bspc.2021.102741)
 
 **Conference Papers**
 
-- **Suleman Rasheed**, James Bennett, Peter Yoo, Nicholas Opie, Anthony Burkitt, David Grayden.  
-  *Comparing Cardiac Artefact Removal Algorithms for Endovascular BCI Recordings.*  
-  [*IEEE Winter BCI Conference, 2024*](https://doi.org/10.1109/BCI60775.2024.10480513)
+- **Suleman Rasheed**, James Bennett, Peter Yoo, Nicholas Opie, Anthony Burkitt, David Grayden. *Comparing Cardiac Artefact Removal Algorithms for Endovascular BCI Recordings.* [*IEEE Winter BCI Conference, 2024*](https://doi.org/10.1109/BCI60775.2024.10480513)
 
-- **Suleman Rasheed**, Wajid Mumtaz.  
-  *Classification of Hand-Grasp Movements of Stroke Patients using EEG Data.*  
-  [*IEEE International Conference on Artificial Intelligence (ICAI), 2021*](https://doi.org/10.1109/ICAI52203.2021.9445231)
+- **Suleman Rasheed**, Wajid Mumtaz. *Classification of Hand-Grasp Movements of Stroke Patients using EEG Data.* [*IEEE International Conference on Artificial Intelligence (ICAI), 2021*](https://doi.org/10.1109/ICAI52203.2021.9445231)
 
 **Abstracts / Posters**
 

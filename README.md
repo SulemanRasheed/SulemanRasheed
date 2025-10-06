@@ -34,7 +34,7 @@ Thesis: “Driver Drowsiness Detection using Lightweight Deep Convolutional Neur
 **Data Scientist Intern – Synchron Inc.**  
 *Melbourne, Australia | Mar 2023 – Mar 2024*  
 - Developed a real-time data acquisition pipeline integrating brain, eye-tracking, and camera signals, enabling multimodal ML experimentation beyond existing software capabilities.  
-- Designed a cardiac artefact removal algorithm that filtered noise from brain signals, improving classification accuracy by 18%. Adopted internally and published in IEEE BCI Conference 2024.
+- Designed a cardiac artefact removal algorithm that filtered noise from brain signals, improving classification accuracy by 18%. Adopted internally and published in *IEEE BCI Conference 2024*.
 
 **Research Assistant – National University of Sciences & Technology (NUST)**  
 *Islamabad, Pakistan | Mar 2020 – Apr 2021*  

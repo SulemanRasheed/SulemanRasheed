@@ -1,22 +1,13 @@
-# 🧠 **Suleman Rasheed**  
-**Biomedical Engineer | Data Scientist**  
+## 🧍 **About**
 📍 *Melbourne, Australia*  
-✉️ [SulemanRasheedEngr@gmail.com](mailto:SulemanRasheedEngr@gmail.com) • 📞 +61 467 027 013  
+Suleman Rasheed is a **Data Scientist (PhD)** with 6 years of academic and 2+ years of professional experience in **machine learning**, **Python**, and **cloud computing**.  
+He designs and deploys **end-to-end predictive pipelines**, delivering measurable real-world impact across **biomedical**, **behavioural**, and **research** domains.
+
+I’m open to collaborations and data-driven projects in **health**, **research**, or **AI innovation**.  
+✉️ [SulemanRasheedEngr@gmail.com](mailto:SulemanRasheedEngr@gmail.com)   
 🔗 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="20">](https://www.linkedin.com/in/suleman-rasheed/)
 &nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" height="20">](https://github.com/SulemanRasheed)
 &nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white" height="20">](https://scholar.google.com/citations?user=wUt7qi0AAAAJ&hl=en)
-
----
-
-### 🧭 **Navigation**  
-[About](#about) • [Skills](#skills) • [Education](#education) • [Experience](#experience) • [Projects](#portfolio-projects) • [Publications](#publications-click-to-expand) • [Awards](#honours--awards) • [Memberships](#professional-memberships) • [Contact](#lets-connect)
-
----
-
-## 🧍 **About**
-
-Suleman Rasheed is a **Data Scientist (PhD)** with 6 years of academic and 2+ years of professional experience in **machine learning**, **Python**, and **cloud computing**.  
-He designs and deploys **end-to-end predictive pipelines**, delivering measurable real-world impact across **biomedical**, **behavioural**, and **research** domains.
 
 ---
 
@@ -183,9 +174,3 @@ Implemented five algorithms in **Python** — from **CSP / FBCSP** and **PSD / W
 </details>
 
 ---
-
-## 📫 **Let’s Connect**
-
-I’m open to collaborations and data-driven projects in **health**, **research**, or **AI innovation**.  
-
-➡️ [**LinkedIn**](https://www.linkedin.com/in/suleman-rasheed/) • [**GitHub**](https://github.com/SulemanRasheed) • [**Google Scholar**](https://scholar.google.com/citations?user=wUt7qi0AAAAJ&hl=en)

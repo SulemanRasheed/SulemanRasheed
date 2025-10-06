@@ -167,7 +167,7 @@ Wajid Mumtaz, Suleman Rasheed, Alina Irfan.
 
 ## Publications
 
-### Journal Articles
+#### Journal Articles
 
 - **Suleman Rasheed**, James Bennett, Peter Yoo, Anthony Burkitt, David Grayden.  
   *Decoding Saccadic Eye Movements from Brain Signals Using an Endovascular Neural Interface.*  
@@ -177,7 +177,7 @@ Wajid Mumtaz, Suleman Rasheed, Alina Irfan.
   *Review of Challenges Associated with EEG Artefact Removal Methods.*  
   [*Biomedical Signal Processing and Control, 2021*](https://doi.org/10.1016/j.bspc.2021.102741)
 
-### Conference Papers
+#### Conference Papers
 
 - **Suleman Rasheed**, James Bennett, Peter Yoo, Nicholas Opie, Anthony Burkitt, David Grayden.  
   *Comparing Cardiac Artefact Removal Algorithms for Endovascular BCI Recordings.*  
@@ -188,7 +188,7 @@ Wajid Mumtaz, Suleman Rasheed, Alina Irfan.
   [*IEEE International Conference on Artificial Intelligence (ICAI), 2021*](https://doi.org/10.1109/ICAI52203.2021.9445231)
 
 
-### Abstracts / Posters
+#### Abstracts / Posters
 
 - *Predicting Eye Movement Intentions from Brain Signals.* — *ICNS NeuroEng Workshop, 2025*  
 - *Decoding Eye Movements from Brain Signals.* — *IEEE EMBC, 2023*  

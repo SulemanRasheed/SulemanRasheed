@@ -58,6 +58,7 @@ He is an expert in designing and deploying **end-to-end predictive pipelines**, 
 ### 1. Healthcare Financial Dashboard  
 ![Healthcare Financial Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Healthcare%20Financial%20Dashboard.png?raw=true)  
 Interactive Power BI dashboard summarizing billing, treatment costs, and insurance coverage across Australian healthcare providers.  
+
 **Code:** [GitHub Repository](https://github.com/SulemanRasheed/Healthcare-Financial-Dashboard-PowerBI-Australia)
 
 ---
@@ -65,6 +66,7 @@ Interactive Power BI dashboard summarizing billing, treatment costs, and insuran
 ### 2. Monash Health Surgery Wait Times Dashboard  
 ![Monash Health Surgery Wait Times Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Monash%20Health%20Surgery%20Wait%20Times%20Dashboard.png?raw=true)  
 Power BI dashboard analysing elective surgery wait times by urgency, department, and year at Monash Health.  
+
 **Code:** [GitHub Repository](https://github.com/SulemanRasheed/Monash-Health-Surgery-Wait-Times)
 
 ---
@@ -72,6 +74,7 @@ Power BI dashboard analysing elective surgery wait times by urgency, department,
 ### 3. Victoria EPA Air Quality Dashboard  
 ![Victoria EPA Air Quality Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Victoria%20EPA%20Air%20Quality%20Dashboard.png?raw=true)  
 R Shiny dashboard visualising daily NO₂ pollution levels across Victorian suburbs using Environment Protection Authority (EPA) datasets.  
+
 **Dashboard:** [Live App (Shiny)](https://sulemanrasheed.shinyapps.io/Victoria_Air_Quality_EPA_2024_Data/)  
 **Code:** [GitHub Repository](https://github.com/SulemanRasheed/VictoriaEPA-AirQuality)
 
@@ -80,6 +83,7 @@ R Shiny dashboard visualising daily NO₂ pollution levels across Victorian subu
 ### 4. Predicting Hand-Movements of Stroke Patients from Brain Signals
 ![EEG Hand Grasp](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/EEG%20Hand%20Grasp%20Classification%20.png?raw=true)  
 **Abstract:** Electroencephalography (EEG) based Brain Controlled Prosthetics can potentially improve the lives of people with movement disorders, however, the successful classification of the brain thoughts into correct intended movement is still a challenge. In recent years, machine learning based methods, especially deep neural networks, have improved the pattern recognition and classification performance of computer vision systems. However, there is a need to evaluate the classical EEG signal processing algorithms against advanced machine learning based variants, specifically in the domain of Brain Computer Interfaces (BCI). This study aims to be a benchmark where we evaluate the performance of 5 popular motor imagery BCI pipelines and compare classical signal processing techniques (wavelet transform and power spectral density) with motor imagery specific algorithms (Common Spatial Patterns and Filter Bank Common Spatial Patterns (FBCSP)) and a state-of-the-art deep neural network based EEGNet algorithm. The experiments were performed on an open-source EEG dataset of hemiparetic stroke patients and both within subject and cross subject performance of the aforementioned algorithms was evaluated based on kappa scores. We empirically found that, for within subject classification, FBCSP method still is the gold-standard for motor imagery task with a mean kappa score of about 0.70 (84.8% accuracy) while for cross subject classification, due to the availability of a large amount of data, deep learning based EEGNet method outperformed all the other methods with a large margin and gave kappa value of 0.54 (77.0% accuracy). We believe these results would help BCI researchers to select a suitable BCI pipeline for their task that could help in the development of robot assisted therapies or as an interface for assistive devices. 
+
 **Publication:** [IEEE International Conference on Artificial Intelligence (ICAI), 2021](https://ieeexplore.ieee.org/document/9445231)  
 **Code:** [GitHub Repository](https://github.com/SulemanRasheed/EEG-HandGrasp-Classification)
 

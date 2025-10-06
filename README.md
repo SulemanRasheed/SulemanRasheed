@@ -51,7 +51,7 @@ for neurotechnology applications, published in Journal of Biomedical Signal Proc
 
 | **Area** | **Tools & Technologies** |
 |-----------|--------------------------|
-| **Programming** | Python, R, C/C++, SQL |
+| **Programming** | Python, R, C/C++, MATLAB, SQL |
 | **Machine Learning** | Scikit-learn, PyTorch, TensorFlow, Keras, Pandas, NumPy |
 | **Deployment** | Git, CI/CD, Docker, Kubernetes, FastAPI, MLflow |
 | **Data Visualisation** | Power BI, Plotly, R Shiny, Excel, Matplotlib |

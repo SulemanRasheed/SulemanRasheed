@@ -1,4 +1,4 @@
-title: Suleman Rasheed
+#title: Suleman Rasheed
 logo : /images/Profile_Pic.jpg
 #logo: relative path of the image
 #description: add text under the fig/dp
@@ -6,9 +6,10 @@ logo : /images/Profile_Pic.jpg
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-slate
 #theme: minima
-theme: jekyll-theme-cayman
 
+title: "Suleman Rasheed"
 description: "Biomedical Engineer | Data Scientist"
+theme: jekyll-theme-cayman
 markdown: kramdown
 kramdown:
   input: GFM

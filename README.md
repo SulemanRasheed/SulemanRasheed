@@ -235,3 +235,5 @@ Wajid Mumtaz, Suleman Rasheed, Alina Irfan.
 - Brain–Computer Interface Society (BCI)  
 - Institute of Electrical and Electronics Engineers (IEEE)  
 - IEEE Engineering in Medicine and Biology Society (EMBS)
+- Pakistan Engineering Council (PEC)
+- Engineers Australia

@@ -53,56 +53,52 @@ He is an expert in designing and deploying **end-to-end predictive pipelines**, 
 - Built **machine-learning models** predicting imagined hand movements in stroke patients, achieving 85 % accuracy (*IEEE ICAI 2021*).
 
 ---
-
 ## 🧠 Research & Data Science Portfolio
 
-
-### 1. Decoding Eye Movements from Brain Signals  
-![Decoding Eye Movements](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Decoding%20Eye%20Movements%20from%20Brain%20Signals.png?raw=true)  
-Classification of horizontal and vertical saccadic eye movements recorded by the Stentrode™ neural interface.  
-**Publication:** [Journal of Neural Engineering, 2025](https://iopscience.iop.org/article/10.1088/1741-2552/ae0f52)  
-
----
-### 2. Comparing Cardiac Artefact Removal Algorithms for Endovascular BCIs  
-![Comparing Cardiac Artefact Removal](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Comparing%20Cardiac%20Artefact%20Removal%20Algorithms%20for%20Endovascular%20Neural%20Interfaces.png?raw=true)  
-Pipeline comparing multiple referencing and artifact removal strategies for endovascular brain–computer interface (BCI) signals to improve classification accuracy.  
-**Publication:** [IEEE Winter BCI Conference, 2024](https://ieeexplore.ieee.org/document/10480513/)
-
----
-
-### 3. EEG Hand Grasp Classification  
-![EEG Hand Grasp](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/EEG%20Hand%20Grasp%20Classification%20.png?raw=true)  
-Feature extraction and model comparison for motor imagery EEG data using CSP, PSD, and deep learning models.  
-**Publication:** [IEEE International Conference on Artificial Intelligence (ICAI), 2021]([https://embc.embs.org/2023](https://ieeexplore.ieee.org/document/9445231))  
-**Code:** [GitHub Repository](https://github.com/SulemanRasheed/EEG-HandGrasp-Classification)
-
----
-
-### 4. Healthcare Financial Dashboard  
+### 1. Healthcare Financial Dashboard  
 ![Healthcare Financial Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Healthcare%20Financial%20Dashboard.png?raw=true)  
-Interactive Power BI dashboard summarizing billing, treatment costs, and insurance coverage across Australian healthcare providers.   
+Interactive Power BI dashboard summarizing billing, treatment costs, and insurance coverage across Australian healthcare providers.  
 **Code:** [GitHub Repository](https://github.com/SulemanRasheed/Healthcare-Financial-Dashboard-PowerBI-Australia)
 
 ---
 
-### 5. Monash Health Surgery Wait Times Dashboard  
+### 2. Monash Health Surgery Wait Times Dashboard  
 ![Monash Health Surgery Wait Times Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Monash%20Health%20Surgery%20Wait%20Times%20Dashboard.png?raw=true)  
 Power BI dashboard analysing elective surgery wait times by urgency, department, and year at Monash Health.  
 **Code:** [GitHub Repository](https://github.com/SulemanRasheed/Monash-Health-Surgery-Wait-Times)
 
 ---
 
-### 6. Victoria EPA Air Quality Dashboard  
+### 3. Victoria EPA Air Quality Dashboard  
 ![Victoria EPA Air Quality Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Victoria%20EPA%20Air%20Quality%20Dashboard.png?raw=true)  
 R Shiny dashboard visualising daily NO₂ pollution levels across Victorian suburbs using Environment Protection Authority (EPA) datasets.  
-**Dashboard:** [Live App (Shiny)](https://sulemanrasheed.shinyapps.io/Victoria_Air_Quality_EPA_2024_Data/)
-**Code:** [GitHub Repository](https://sulemanrasheed.shinyapps.io/Victoria_Air_Quality_EPA_2024_Data/)
+**Dashboard:** [Live App (Shiny)](https://sulemanrasheed.shinyapps.io/Victoria_Air_Quality_EPA_2024_Data/)  
+**Code:** [GitHub Repository](https://github.com/SulemanRasheed/VictoriaEPA-AirQuality)
 
+---
 
+### 4. Predicting Hand-Movements of Stroke Patients from Brain Signals
+![EEG Hand Grasp](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/EEG%20Hand%20Grasp%20Classification%20.png?raw=true)  
+Feature extraction and model comparison for motor imagery EEG data using CSP, PSD, and deep learning models.  
+**Publication:** [IEEE International Conference on Artificial Intelligence (ICAI), 2021](https://ieeexplore.ieee.org/document/9445231)  
+**Code:** [GitHub Repository](https://github.com/SulemanRasheed/EEG-HandGrasp-Classification)
 
+---
 
+<!--
+### 5. Decoding Eye Movements from Brain Signals  
+![Decoding Eye Movements](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Decoding%20Eye%20Movements%20from%20Brain%20Signals.png?raw=true)  
+Classification of horizontal and vertical saccadic eye movements recorded by the Stentrode™ neural interface.  
+**Publication:** [Journal of Neural Engineering, 2025](https://iopscience.iop.org/article/10.1088/1741-2552/ae0f52)  
+---
 
---- 
+### 6. Comparing Cardiac Artefact Removal Algorithms for Endovascular BCIs  
+![Comparing Cardiac Artefact Removal](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Comparing%20Cardiac%20Artefact%20Removal%20Algorithms%20for%20Endovascular%20Neural%20Interfaces.png?raw=true)  
+Pipeline comparing multiple referencing and artifact removal strategies for endovascular brain–computer interface (BCI) signals to improve classification accuracy.  
+**Publication:** [IEEE Winter BCI Conference, 2024](https://ieeexplore.ieee.org/document/10480513/)  
+---
+-->
+
 
 ## 🧾 Publications
 

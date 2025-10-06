@@ -134,6 +134,7 @@ This benchmark supports the development of assistive robotic and rehabilitation 
 
 ![EEG Hand Grasp Classification](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/EEG%20Hand%20Grasp%20Classification%20.png?raw=true)
 
+<!--
 ---
 ## Publications
 
@@ -162,28 +163,28 @@ Wajid Mumtaz, Suleman Rasheed, Alina Irfan.
 - *Predicting Eye Movement Intentions from Brain Signals.* ICNS NeuroEng Workshop, 2025  
 - *Decoding Eye Movements from Brain Signals.* IEEE EMBC, 2023  
 - *Removing Cardiac Artefacts from Endovascular Interface Data.* ICNS NeuroEng Workshop, 2023
-
+-->
 ---
 
 ## Publications
 
-#### Journal Articles
+### Journal Articles
 
-- **Suleman Rasheed**, James Bennett, Peter Yoo, Anthony Burkitt, David Grayden.  
+- Suleman Rasheed, James Bennett, Peter Yoo, Anthony Burkitt, David Grayden.  
   *Decoding Saccadic Eye Movements from Brain Signals Using an Endovascular Neural Interface.*  
   [*Journal of Neural Engineering, 2025*](https://iopscience.iop.org/article/10.1088/1741-2552/ae0f52)
 
-- Wajid Mumtaz, **Suleman Rasheed**, Alina Irfan.  
+- Wajid Mumtaz, Suleman Rasheed, Alina Irfan.  
   *Review of Challenges Associated with EEG Artefact Removal Methods.*  
   [*Biomedical Signal Processing and Control, 2021*](https://doi.org/10.1016/j.bspc.2021.102741)
 
-#### Conference Papers
+## Conference Papers
 
-- **Suleman Rasheed**, James Bennett, Peter Yoo, Nicholas Opie, Anthony Burkitt, David Grayden.  
+- Suleman Rasheed, James Bennett, Peter Yoo, Nicholas Opie, Anthony Burkitt, David Grayden.  
   *Comparing Cardiac Artefact Removal Algorithms for Endovascular BCI Recordings.*  
   [*IEEE Winter BCI Conference, 2024*](https://doi.org/10.1109/BCI60775.2024.10480513)
 
-- **Suleman Rasheed**, Wajid Mumtaz.  
+- Suleman Rasheed, Wajid Mumtaz.  
   *Classification of Hand-Grasp Movements of Stroke Patients using EEG Data.*  
   [*IEEE International Conference on Artificial Intelligence (ICAI), 2021*](https://doi.org/10.1109/ICAI52203.2021.9445231)
 

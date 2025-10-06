@@ -40,18 +40,23 @@ Based in Melbourne, Australia, Suleman is open to collaborations and data-driven
 
 **Data Scientist – School of Sufi Teachings (Pro Bono)**  
 *Melbourne, Australia | Mar 2025 – Present*  
-- Analysed wearable (ECG, fitness tracker, sleep), survey, and interview data across international cohorts.  
-- Generated insights on meditation and wellbeing supporting $625k in competitive grant proposals (Qatar Spark Award & Templeton Foundation).
+- Analysed wearable (ECG, fitness tracker, sleep), survey, and interview data across international
+cohorts, generating findings on meditation and wellbeing that informed competitive grant proposals
+($625k, Qatar Spark Award & Templeton Foundation).
 
 **Data Scientist Intern – Synchron Inc.**  
 *Melbourne, Australia | Mar 2023 – Mar 2024*  
-- Developed real-time multimodal pipelines integrating brain, eye-tracking, and camera data.  
-- Created a cardiac artefact-removal algorithm improving neural decoding accuracy by 18%, later published in IEEE BCI Conference 2024.
+- Developed a real-time data acquisition pipeline integrating brain, eye-tracking, and camera signals,
+enabling multimodal ML experimentation beyond existing software capabilities.  
+- Designed a cardiac artefact removal algorithm that filtered noise from brain signals, improving
+classification accuracy by 18%, adopted internally and published in IEEE BCI Conference 2024.
 
 **Research Assistant – National University of Sciences & Technology (NUST)**  
 *Islamabad, Pakistan | Mar 2020 – Apr 2021*  
-- Reviewed EEG denoising algorithms and authored community guidelines for neurotechnology applications (Biomedical Signal Processing & Control).  
-- Built machine-learning models predicting imagined hand movements in stroke patients, achieving 85% accuracy (IEEE ICAI 2021).
+- Reviewed EEG denoising algorithms, identifying challenges and establishing community guidelines
+for neurotechnology applications, published in Journal of Biomedical Signal Processing and Control.  
+- Built models predicting imagined hand movements in stroke patients from brain signals, achieving
+85% accuracy and demonstrating potential for rehabilitation, published at IEEE ICAI 2021.
 
 ---
 

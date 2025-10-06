@@ -3,13 +3,12 @@
 Suleman Rasheed is a **Data Scientist (PhD)** with 6 years of academic and 2+ years of professional experience in **machine learning**, **Python**, and **cloud computing**.  
 He designs and deploys **end-to-end predictive pipelines**, delivering measurable real-world impact across **biomedical**, **behavioural**, and **research** domains.
 
-I’m open to collaborations and data-driven projects in **health**, **research**, or **AI innovation**.  
+I’m based in Melbourne and open to collaborations and data-driven projects in **health**, **research**, or **AI innovation**.  
 ✉️ [SulemanRasheedEngr@gmail.com](mailto:SulemanRasheedEngr@gmail.com)   
 🔗 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="20">](https://www.linkedin.com/in/suleman-rasheed/)
 &nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" height="20">](https://github.com/SulemanRasheed)
 &nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white" height="20">](https://scholar.google.com/citations?user=wUt7qi0AAAAJ&hl=en)
 
-📍 *Melbourne, Australia*  
 ---
 
 ## 🧩 **Skills**

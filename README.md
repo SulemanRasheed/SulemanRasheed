@@ -43,7 +43,54 @@ Based in Melbourne, Australia, Suleman is open to collaborations and data-driven
 - Built models predicting imagined hand movements in stroke patients from brain signals, achieving 85% accuracy and demonstrating potential for rehabilitation, published at IEEE ICAI 2021.
 
 
+
 ---
+
+## Education
+
+| **PhD – Engineering and IT** | *2021–2025* |
+| :--------------------------- | -----------: |
+| _The University of Melbourne_ |             |
+| Thesis: “Decoding Eye Movements using an Endovascular Brain–Computer Interface” | |
+
+---
+
+| **BS – Electrical Engineering** | *2015–2019* |
+| :------------------------------ | -----------: |
+| _Pakistan Institute of Engineering and Applied Sciences_ | |
+| Thesis: “Driver Drowsiness Detection using Lightweight Deep Convolutional Neural Networks” | |
+
+---
+
+## Experience
+
+| **Data Scientist – School of Sufi Teachings (Pro Bono)** | *Mar 2025 – Present* |
+| :------------------------------------------------------- | --------------------: |
+| _Melbourne, Australia_                                   |                       |
+
+- Analysed wearable (ECG, fitness tracker, sleep), survey, and interview data across international cohorts.  
+- Generated findings on meditation and wellbeing that informed competitive grant proposals ($625k, Qatar Spark Award & Templeton Foundation).
+
+---
+
+| **Data Scientist Intern – Synchron Inc.** | *Mar 2023 – Mar 2024* |
+| :---------------------------------------- | ---------------------: |
+| _Melbourne, Australia_                    |                        |
+
+- Developed a real-time data acquisition pipeline integrating brain, eye-tracking, and camera signals, enabling multimodal ML experimentation beyond existing software capabilities.  
+- Designed a cardiac artefact removal algorithm that filtered noise from brain signals, improving classification accuracy by 18%, adopted internally and published in IEEE BCI Conference 2024.
+
+---
+
+| **Research Assistant – National University of Sciences & Technology (NUST)** | *Mar 2020 – Apr 2021* |
+| :--------------------------------------------------------------------------- | ---------------------: |
+| _Islamabad, Pakistan_                                                         |                        |
+
+- Reviewed EEG denoising algorithms, identifying challenges and establishing community guidelines for neurotechnology applications, published in *Biomedical Signal Processing and Control*.  
+- Built models predicting imagined hand movements in stroke patients from brain signals, achieving 85% accuracy and demonstrating potential for rehabilitation, published at *IEEE ICAI 2021*.
+
+---
+
 ## Skills
 
 | **Area** | **Tools & Technologies** |

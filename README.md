@@ -66,7 +66,7 @@ He is an expert in designing and deploying **end-to-end predictive pipelines**, 
 
 ### 1️⃣ Monash Health Surgery Wait Times Dashboard  
 
-This Power BI dashboard presents a side-by-side comparison of elective surgery wait times across urgent, semi-urgent, and non-urgent categories at Monash Health (2018–2023).  
+This **Power BI** dashboard presents a side-by-side comparison of elective surgery wait times across urgent, semi-urgent, and non-urgent categories at Monash Health (2018–2023).  
 It enables rapid comparison of volumes, wait times, and compliance rates — providing stakeholders with actionable insights for operational and clinical decision-making.
 
 ![Monash Health Surgery Wait Times Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Monash%20Health%20Surgery%20Wait%20Times%20Dashboard.png?raw=true)

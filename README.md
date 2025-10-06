@@ -12,22 +12,6 @@ Based in Melbourne, Australia, Suleman is open to collaborations and data-driven
 
 ---
 
-## Skills
-
-| **Area** | **Tools & Technologies** |
-|-----------|--------------------------|
-| **Programming** | Python, R, C/C++, SQL |
-| **Machine Learning** | Scikit-learn, PyTorch, TensorFlow, Keras, Pandas, NumPy |
-| **Deployment** | Git, CI/CD, Docker, Kubernetes, FastAPI, MLflow |
-| **Data Visualisation** | Power BI, Plotly, R Shiny, Excel, Matplotlib |
-| **Cloud Platforms** | Azure, AWS, Databricks |
-| **Computer Vision** | Face Detection, Object Tracking, Facial Landmarks Detection |
-| **Hardware** | Raspberry Pi, Arduino, Camera Systems, Eye Trackers, EEG, ECG, Fitness Trackers |
-| **Qualitative Research** | Interviews (Zoom, Meet, Teams), Transcription (Otter.ai), Analysis (NVivo) |
-| **Compliance** | ICH-GCP, ISO 13485, IEC 62304 |
-
----
-
 ## Education
 
 **PhD – Engineering and IT**  
@@ -61,7 +45,24 @@ for neurotechnology applications, published in Journal of Biomedical Signal Proc
 - Built models predicting imagined hand movements in stroke patients from brain signals, achieving
 85% accuracy and demonstrating potential for rehabilitation, published at IEEE ICAI 2021.
 
+
 ---
+## Skills
+
+| **Area** | **Tools & Technologies** |
+|-----------|--------------------------|
+| **Programming** | Python, R, C/C++, SQL |
+| **Machine Learning** | Scikit-learn, PyTorch, TensorFlow, Keras, Pandas, NumPy |
+| **Deployment** | Git, CI/CD, Docker, Kubernetes, FastAPI, MLflow |
+| **Data Visualisation** | Power BI, Plotly, R Shiny, Excel, Matplotlib |
+| **Cloud Platforms** | Azure, AWS, Databricks |
+| **Computer Vision** | Face Detection, Object Tracking, Facial Landmarks Detection |
+| **Hardware** | Raspberry Pi, Arduino, Camera Systems, Eye Trackers, EEG, ECG, Fitness Trackers |
+| **Qualitative Research** | Interviews (Zoom, Meet, Teams), Transcription (Otter.ai), Analysis (NVivo) |
+| **Compliance** | ICH-GCP, ISO 13485, IEC 62304 |
+
+---
+
 
 ## Portfolio Projects
 

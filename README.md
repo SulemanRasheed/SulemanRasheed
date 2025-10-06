@@ -7,7 +7,7 @@ He designs and deploys end-to-end predictive pipelines that deliver measurable r
 Based in Melbourne, Australia, Suleman is open to collaborations and data-driven projects in health, research, and AI innovation.
 -->
 
-Suleman Rasheed is a Data Analyst and Scientist (PhD) with 5 years of academic and 2+ years of professional experience in data analytics, statistical modelling, and machine learning.
+Suleman Rasheed is a Data Scientist/Analyst (PhD) with 5 years of academic and 2+ years of professional experience in data analytics, statistical modelling, and machine learning.
 He applies Python, R, SQL, and Power BI to build data-driven solutions, deliver insights, and support evidence-based decisions across research and industry settings.
 
 [<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="20">](mailto:SulemanRasheedEngr@gmail.com)

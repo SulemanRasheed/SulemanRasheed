@@ -35,7 +35,6 @@ He is an expert in designing and deploying **end-to-end predictive pipelines**, 
 **PhD – Engineering and IT**  
 *The University of Melbourne* | *2021 – 2025*  
 📄 *Thesis:* “Decoding Eye Movements using an Endovascular Brain-Computer Interface”  
-🏆 *Awards:* Melbourne Research Scholarship, ARC Top-Up Award, Write-Up Award, and 3 Travel Grants  
 
 **BS – Electrical Engineering**  
 *Pakistan Institute of Engineering and Applied Sciences* | *2015 – 2019*  

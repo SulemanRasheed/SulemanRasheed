@@ -110,13 +110,14 @@ Implemented five algorithms in **Python** — from **CSP / FBCSP** and **PSD / W
 📄 **Publication:** [IEEE ICAI, 2021](https://ieeexplore.ieee.org/document/9445231)
 
 ---
+## 📚 **Publications**
 
 <details>
-<summary>📚 <strong>Publications (click to expand)</strong></summary>
+<summary><strong>Click to expand</strong></summary>
 
 <br>
 
-### 🧠 *Journal Articles*
+### Journal Articles
 - **Suleman Rasheed**, James Bennett, Peter Yoo, Anthony Burkitt, David Grayden  
   *Decoding Saccadic Eye Movements from Brain Signals Using an Endovascular Neural Interface.*  
   *Journal of Neural Engineering, 2025.* [DOI](https://iopscience.iop.org/article/10.1088/1741-2552/ae0f52)
@@ -127,7 +128,7 @@ Implemented five algorithms in **Python** — from **CSP / FBCSP** and **PSD / W
 
 ---
 
-### 🎤 *Conference Papers*
+### Conference Papers
 - **Suleman Rasheed**, James Bennett, Peter Yoo, Nicholas Opie, Anthony Burkitt, David Grayden  
   *Comparing Cardiac Artefact Removal Algorithms for Endovascular BCI Recordings.*  
   *IEEE Winter BCI Conference, 2024.* [DOI](https://doi.org/10.1109/BCI60775.2024.10480513)
@@ -138,7 +139,7 @@ Implemented five algorithms in **Python** — from **CSP / FBCSP** and **PSD / W
 
 ---
 
-### 🧩 *Abstracts / Posters*
+### Abstracts / Posters
 - *Predicting Eye Movement Intentions from Brain Signals.* — ICNS NeuroEng Workshop, 2025  
 - *Decoding Eye Movements from Brain Signals.* — IEEE EMBC, 2023  
 - *Removing Cardiac Artefacts from Endovascular Interface Data.* — ICNS NeuroEng Workshop, 2023  
@@ -148,8 +149,10 @@ Implemented five algorithms in **Python** — from **CSP / FBCSP** and **PSD / W
 
 ---
 
+## 🏆 **Honours & Awards**
+
 <details>
-<summary>🏅 <strong>Honours & Awards</strong></summary>
+<summary><strong>Click to expand</strong></summary>
 
 <br>
 
@@ -162,8 +165,10 @@ Implemented five algorithms in **Python** — from **CSP / FBCSP** and **PSD / W
 
 ---
 
+## 🤝 **Professional Memberships**
+
 <details>
-<summary>👥 <strong>Professional Memberships</strong></summary>
+<summary><strong>Click to expand</strong></summary>
 
 <br>
 

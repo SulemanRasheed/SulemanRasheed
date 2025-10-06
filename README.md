@@ -27,7 +27,6 @@ Based in Melbourne, Australia, Suleman is open to collaborations and data-driven
 
 **Data Scientist – School of Sufi Teachings (Pro Bono)** 
 *Melbourne, Australia | Mar 2025 – Present* 
-
 - Analysed wearable (ECG, fitness tracker, sleep), survey, and interview data across international cohorts, generating findings on meditation and wellbeing that informed competitive grant proposals ($625k, Qatar Spark Award & Templeton Foundation). 
 
 **Data Scientist Intern – Synchron Inc.** 

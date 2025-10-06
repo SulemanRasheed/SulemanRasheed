@@ -197,7 +197,7 @@ Wajid Mumtaz, Suleman Rasheed, Alina Irfan.
   [*IEEE EMBC, 2023*](https://www.linkedin.com/posts/suleman-rasheed_embc2023-bci-activity-7090853996503961600-T6A8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHTZrIBQK7NQsAxubHEM9CYZ2LKsrNpYTE)
   
 - Removing Cardiac Artefacts from Endovascular Interface Data.
-  [*ICNS NeuroEng Workshop, 2023*]((https://www.linkedin.com/posts/suleman-rasheed_icns-neuroeng2023-sydney-activity-7144088057195937792-IIGr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHTZrIBQK7NQsAxubHEM9CYZ2LKsrNpYTE))
+  [*ICNS NeuroEng Workshop, 2023*](https://www.linkedin.com/posts/suleman-rasheed_icns-neuroeng2023-sydney-activity-7144088057195937792-IIGr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHTZrIBQK7NQsAxubHEM9CYZ2LKsrNpYTE)
 
 ---
 

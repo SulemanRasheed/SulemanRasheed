@@ -55,18 +55,7 @@ He is an expert in designing and deploying **end-to-end predictive pipelines**, 
 ---
 ## 🧠 Research & Data Science Portfolio
 
-### 1. Healthcare Financial Dashboard  
-This interactive Power BI dashboard visualizes healthcare billing data across Australian cities, procedures, departments, and demographics. It provides insights into treatment costs, insurance coverage, and patient out-of-pocket expenses, with dynamic filtering by year and ethnicity.
-
-Designed for hospital administrators, policy analysts, and health service researchers to benchmark costs by procedure and department, understand disparities in care costs across demographic groups, and explore regional variation in healthcare spending. 
-
-![Healthcare Financial Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Healthcare%20Financial%20Dashboard.png?raw=true)  
-
-**Code | Dashboard:** [GitHub Repository](https://github.com/SulemanRasheed/Healthcare-Financial-Dashboard-PowerBI-Australia)
-
----
-
-### 2. Monash Health Surgery Wait Times Dashboard  
+### 1. Monash Health Surgery Wait Times Dashboard  
 
 This Power BI dashboard presents a side-by-side comparison of elective surgery wait times across urgent, semi-urgent, and non-urgent categories at Monash Health, a major Local Hospital Network in Australia, from 2018 to 2023.
 
@@ -81,7 +70,7 @@ Power BI dashboard analysing elective surgery wait times by urgency, department,
 
 ---
 
-### 3. Victoria EPA Air Quality Dashboard  
+### 2. Victoria EPA Air Quality Dashboard  
 This interactive R Shiny application visualises EPA Victoria’s 2024 air quality data. It allows users to select a **suburb** and **pollutant** to explore daily pollutant levels throughout the year, presented in an intuitive calendar-style heatmap. 
 
 EPA Victoria (Environment Protection Authority Victoria) is the environmental regulator for the state of Victoria, Australia. It monitors and reports on air, water, and land quality to protect public health and the environment. The air quality data used in this dashboard is sourced from EPA Victoria’s publicly available monitoring stations. 
@@ -91,6 +80,17 @@ EPA Victoria (Environment Protection Authority Victoria) is the environmental re
 **Dashboard:** [Live App (Shiny)](https://sulemanrasheed.shinyapps.io/Victoria_Air_Quality_EPA_2024_Data/)  
 **Code:** [GitHub Repository](https://github.com/SulemanRasheed/VictoriaEPA-AirQuality)
 **Data:** [Dataset](https://discover.data.vic.gov.au/dataset/epa-air-watch-all-sites-air-quality-hourly-averages-yearly)
+
+---
+
+### 3. Healthcare Financial Dashboard  
+This interactive Power BI dashboard visualizes healthcare billing data across Australian cities, procedures, departments, and demographics. It provides insights into treatment costs, insurance coverage, and patient out-of-pocket expenses, with dynamic filtering by year and ethnicity.
+
+Designed for hospital administrators, policy analysts, and health service researchers to benchmark costs by procedure and department, understand disparities in care costs across demographic groups, and explore regional variation in healthcare spending. 
+
+![Healthcare Financial Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Healthcare%20Financial%20Dashboard.png?raw=true)  
+
+**Code | Dashboard:** [GitHub Repository](https://github.com/SulemanRasheed/Healthcare-Financial-Dashboard-PowerBI-Australia)
 
 ---
 

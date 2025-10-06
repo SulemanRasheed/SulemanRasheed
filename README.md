@@ -230,17 +230,8 @@ Wajid Mumtaz, Suleman Rasheed, Alina Irfan.
 
 
 ## Professional Memberships
-
-<details>
-<summary><strong>Click to expand</strong></summary>
-
-<div markdown="1">
-
 - NeuroEng Australia  
 - Graeme Clark Institute for Biomedical Engineering, The University of Melbourne  
 - Brain–Computer Interface Society (BCI)  
 - Institute of Electrical and Electronics Engineers (IEEE)  
 - IEEE Engineering in Medicine and Biology Society (EMBS)
-
-</div>
-</details>

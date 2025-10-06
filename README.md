@@ -62,7 +62,7 @@ Designed for hospital administrators, policy analysts, and health service resear
 
 ![Healthcare Financial Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Healthcare%20Financial%20Dashboard.png?raw=true)  
 
-**Code:** [GitHub Repository](https://github.com/SulemanRasheed/Healthcare-Financial-Dashboard-PowerBI-Australia)
+**Code | Dashboard:** [GitHub Repository](https://github.com/SulemanRasheed/Healthcare-Financial-Dashboard-PowerBI-Australia)
 
 ---
 
@@ -75,7 +75,9 @@ It enables rapid comparison of volumes, wait times, and compliance rates, provid
 ![Monash Health Surgery Wait Times Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Monash%20Health%20Surgery%20Wait%20Times%20Dashboard.png?raw=true)  
 Power BI dashboard analysing elective surgery wait times by urgency, department, and year at Monash Health.  
 
-**Code:** [GitHub Repository](https://github.com/SulemanRasheed/Monash-Health-Surgery-Wait-Times)
+**Code | Dashboard:** [GitHub Repository](https://github.com/SulemanRasheed/Monash-Health-Surgery-Wait-Times)
+**Data:** [Dataset](https://www.aihw.gov.au/hospitals/latest-updates-and-downloads/data)
+
 
 ---
 
@@ -88,6 +90,7 @@ EPA Victoria (Environment Protection Authority Victoria) is the environmental re
 
 **Dashboard:** [Live App (Shiny)](https://sulemanrasheed.shinyapps.io/Victoria_Air_Quality_EPA_2024_Data/)  
 **Code:** [GitHub Repository](https://github.com/SulemanRasheed/VictoriaEPA-AirQuality)
+**Data:** [Dataset](https://discover.data.vic.gov.au/dataset/epa-air-watch-all-sites-air-quality-hourly-averages-yearly)
 
 ---
 
@@ -101,8 +104,9 @@ Tools: Python, NumPy, SciPy, scikit-learn, MNE-Python, Matplotlib
 
 ![EEG Hand Grasp](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/EEG%20Hand%20Grasp%20Classification%20.png?raw=true)  
 
-**Publication:** [IEEE International Conference on Artificial Intelligence (ICAI), 2021](https://ieeexplore.ieee.org/document/9445231)  
 **Code:** [GitHub Repository](https://github.com/SulemanRasheed/EEG-HandGrasp-Classification)
+**Data:** [Dataset](https://github.com/5anirban9/Clinical-Brain-Computer-Interfaces-Challenge-WCCI-2020-Glasgow)
+**Publication:** [IEEE International Conference on Artificial Intelligence (ICAI), 2021](https://ieeexplore.ieee.org/document/9445231)  
 
 ---
 

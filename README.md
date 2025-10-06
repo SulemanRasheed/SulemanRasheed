@@ -95,7 +95,7 @@ Power BI dashboard analysing elective surgery wait times by urgency, department,
 ### 6. Victoria EPA Air Quality Dashboard  
 ![Victoria EPA Air Quality Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Victoria%20EPA%20Air%20Quality%20Dashboard.png?raw=true)  
 R Shiny dashboard visualising daily NO₂ pollution levels across Victorian suburbs using Environment Protection Authority (EPA) datasets.  
-**Dashboard:** [Live App (Shiny)](https://sulemanrasheed.shinyapps.io/VictoriaEPA-AirQuality/)
+**Dashboard:** [Live App (Shiny)](https://sulemanrasheed.shinyapps.io/Victoria_Air_Quality_EPA_2024_Data/)
 **Code:** [GitHub Repository](https://github.com/SulemanRasheed/Victoria_Air_Quality_EPA_2024_Data)
 
 

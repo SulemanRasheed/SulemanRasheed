@@ -2,14 +2,14 @@
 **Biomedical Engineer | Data Scientist**  
 📍 *Melbourne, Australia*  
 ✉️ [SulemanRasheedEngr@gmail.com](mailto:SulemanRasheedEngr@gmail.com) • 📞 +61 467 027 013  
-🔗 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="20">](https://www.linkedin.com/in/suleman-rasheed/)  
-&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" height="20">](https://github.com/SulemanRasheed)  
+🔗 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="20">](https://www.linkedin.com/in/suleman-rasheed/)
+&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" height="20">](https://github.com/SulemanRasheed)
 &nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white" height="20">](https://scholar.google.com/citations?user=wUt7qi0AAAAJ&hl=en)
 
 ---
 
 ### 🧭 **Navigation**  
-[About](#about) • [Skills](#skills) • [Education](#education) • [Experience](#experience) • [Projects](#portfolio-projects) • [Publications](#publications) • [Awards](#honours--awards) • [Memberships](#professional-memberships) • [Contact](#lets-connect)
+[About](#about) • [Skills](#skills) • [Education](#education) • [Experience](#experience) • [Projects](#portfolio-projects) • [Publications](#publications-click-to-expand) • [Awards](#honours--awards) • [Memberships](#professional-memberships) • [Contact](#lets-connect)
 
 ---
 
@@ -50,24 +50,24 @@ He designs and deploys **end-to-end predictive pipelines**, delivering measurabl
 ### 🧘‍♂️ *Data Scientist – School of Sufi Teachings (Pro Bono)*  
 *Melbourne, Australia | Mar 2025 – Present*  
 - Analysed wearable (ECG, fitness tracker, sleep), survey, and interview data across international cohorts.  
-- Generated insights on meditation and wellbeing supporting **\$625k** in competitive grant proposals (Qatar Spark Award & Templeton Foundation).
+- Generated insights on meditation and wellbeing supporting **\$625 k** in competitive grant proposals (Qatar Spark Award & Templeton Foundation).
 
 ### 🧠 *Data Scientist Intern – Synchron Inc.*  
 *Melbourne, Australia | Mar 2023 – Mar 2024*  
 - Developed real-time multimodal pipelines integrating **brain**, **eye-tracking**, and **camera** data.  
-- Created a **cardiac artefact-removal algorithm**, improving neural decoding accuracy by **18%**, later published in *IEEE BCI Conference 2024*.
+- Created a **cardiac artefact-removal algorithm**, improving neural decoding accuracy by **18 %**, later published in *IEEE BCI Conference 2024*.
 
 ### 🔬 *Research Assistant – National University of Sciences & Technology (NUST)*  
 *Islamabad, Pakistan | Mar 2020 – Apr 2021*  
 - Reviewed **EEG denoising algorithms** and authored community guidelines for neurotechnology applications (*Biomedical Signal Processing & Control*).  
-- Built **machine-learning models** predicting imagined hand movements in stroke patients, achieving **85% accuracy** (*IEEE ICAI 2021*).
+- Built **machine-learning models** predicting imagined hand movements in stroke patients, achieving **85 % accuracy** (*IEEE ICAI 2021*).
 
 ---
 
 ## 🧠 **Portfolio Projects**
 
 ### 🩺 Monash Health Surgery Wait Times Dashboard  
-**Power BI dashboard** comparing elective surgery wait times by urgency (2018–2023) at **Monash Health**.  
+**Power BI dashboard** comparing elective surgery wait times by urgency (2018 – 2023) at **Monash Health**.  
 Enables real-time tracking of compliance rates, volumes, and median wait durations for operational planning.
 
 ![Monash Health Surgery Wait Times Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Monash%20Health%20Surgery%20Wait%20Times%20Dashboard.png?raw=true)
@@ -78,7 +78,7 @@ Enables real-time tracking of compliance rates, volumes, and median wait duratio
 ---
 
 ### 🌏 Victoria EPA Air Quality Dashboard  
-**R Shiny app** visualising 2024 air quality data from **EPA Victoria**.  
+**R Shiny app** visualising 2024 air-quality data from **EPA Victoria**.  
 Users can select suburb and pollutant to explore daily NO₂ trends through a calendar heatmap — designed for environmental awareness and public health insights.
 
 ![Victoria EPA Air Quality Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Victoria%20EPA%20Air%20Quality%20Dashboard.png?raw=true)
@@ -90,7 +90,7 @@ Users can select suburb and pollutant to explore daily NO₂ trends through a ca
 ---
 
 ### 💰 Healthcare Financial Dashboard  
-Interactive **Power BI** dashboard visualising healthcare billing, treatment costs, insurance coverage, and demographic disparities across Australian regions.  
+Interactive **Power BI** dashboard visualising healthcare billing, treatment costs, insurance coverage, and demographic disparities across Australia.  
 Built for **health economists and hospital analysts** to explore cost variability and resource efficiency.
 
 ![Healthcare Financial Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Healthcare%20Financial%20Dashboard.png?raw=true)
@@ -101,11 +101,11 @@ Built for **health economists and hospital analysts** to explore cost variabilit
 
 ### ⚡ Predicting Hand Movements of Stroke Patients from Brain Signals  
 Benchmarked EEG-based **Brain–Computer Interface (BCI)** pipelines for decoding motor imagery in stroke patients.  
-Implemented five algorithms in **Python** — from **CSP/FBCSP** and **PSD/Wavelets** to **EEGNet (deep learning)**.
+Implemented five algorithms in **Python** — from **CSP / FBCSP** and **PSD / Wavelets** to **EEGNet (deep learning)**.
 
 **Findings:**  
-- **FBCSP:** Highest within-subject accuracy (~84.8%)  
-- **EEGNet:** Strongest cross-subject generalisation (~77.0%)  
+- **FBCSP:** Highest within-subject accuracy (~84.8 %)  
+- **EEGNet:** Strongest cross-subject generalisation (~77.0 %)  
 → Provides an open benchmark for assistive robotic and rehabilitation BCIs.
 
 ![EEG Hand Grasp](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/EEG%20Hand%20Grasp%20Classification%20.png?raw=true)
@@ -119,6 +119,8 @@ Implemented five algorithms in **Python** — from **CSP/FBCSP** and **PSD/Wavel
 
 <details>
 <summary>📚 <strong>Publications (click to expand)</strong></summary>
+
+<br>
 
 ### 🧠 *Journal Articles*
 - **Suleman Rasheed**, James Bennett, Peter Yoo, Anthony Burkitt, David Grayden  
@@ -147,6 +149,7 @@ Implemented five algorithms in **Python** — from **CSP/FBCSP** and **PSD/Wavel
 - *Decoding Eye Movements from Brain Signals.* — IEEE EMBC, 2023  
 - *Removing Cardiac Artefacts from Endovascular Interface Data.* — ICNS NeuroEng Workshop, 2023  
 
+<br>
 </details>
 
 ---
@@ -154,10 +157,13 @@ Implemented five algorithms in **Python** — from **CSP/FBCSP** and **PSD/Wavel
 <details>
 <summary>🏅 <strong>Honours & Awards</strong></summary>
 
+<br>
+
 - University of Melbourne Research Scholarship, ARC Top-Up Scholarship, and PhD Write-Up Award  
 - Multiple international conference travel grants  
 - Government of Pakistan Gold Medal for academic distinction in SSC and HSSC examinations  
 
+<br>
 </details>
 
 ---
@@ -165,12 +171,15 @@ Implemented five algorithms in **Python** — from **CSP/FBCSP** and **PSD/Wavel
 <details>
 <summary>👥 <strong>Professional Memberships</strong></summary>
 
+<br>
+
 - NeuroEng Australia  
 - Graeme Clark Institute for Biomedical Engineering, The University of Melbourne  
 - Brain–Computer Interface Society (BCI)  
 - Institute of Electrical and Electronics Engineers (IEEE)  
-- IEEE Engineering in Medicine and Biology Society (EMBS)
+- IEEE Engineering in Medicine and Biology Society (EMBS)  
 
+<br>
 </details>
 
 ---

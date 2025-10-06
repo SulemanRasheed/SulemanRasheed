@@ -1,7 +1,9 @@
-# Suleman Rasheed  
-### Biomedical Engineer | Data Scientist  
+---
+title: "Suleman Rasheed"
+description: "Biomedical Engineer | Data Scientist"
 
 ---
+
 
 ## About
 

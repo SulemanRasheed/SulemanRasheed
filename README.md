@@ -54,6 +54,48 @@ He is an expert in designing and deploying **end-to-end predictive pipelines**, 
 
 ---
 
+## 🧠 Research & Data Science Portfolio
+
+### 1. Comparing Cardiac Artefact Removal Algorithms for Endovascular BCIs
+![Comparing Cardiac Artefact Removal](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Comparing%20Cardiac%20Artefact%20Removal%20Algorithms%20for%20Endovascular%20Neural%20Interfaces.png?raw=true)  
+Pipeline comparing multiple referencing and artifact removal strategies for endovascular brain–computer interface signals.
+
+---
+
+### 2. Decoding Eye Movements from Brain Signals
+![Decoding Eye Movements](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Decoding%20Eye%20Movements%20from%20Brain%20Signals.png?raw=true)  
+Classification of saccadic eye movements recorded by the Stentrode™ neural interface.
+
+---
+
+### 3. EEG Hand Grasp Classification
+![EEG Hand Grasp](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/EEG%20Hand%20Grasp%20Classification%20.png?raw=true)  
+Feature extraction and model comparison for motor imagery EEG classification.
+
+---
+
+### 4. Healthcare Financial Dashboard
+![Healthcare Financial Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Healthcare%20Financial%20Dashboard.png?raw=true)  
+Power BI dashboard summarizing billing, treatment costs, and insurance coverage across Australian healthcare providers.
+
+---
+
+### 5. Monash Health Surgery Wait Times Dashboard
+![Monash Health Surgery Wait Times Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Monash%20Health%20Surgery%20Wait%20Times%20Dashboard.png?raw=true)  
+Interactive dashboard analysing elective surgery wait times by urgency and department.
+
+---
+
+### 6. Victoria EPA Air Quality Dashboard
+![Victoria EPA Air Quality Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Victoria%20EPA%20Air%20Quality%20Dashboard.png?raw=true)  
+R Shiny dashboard visualising daily NO₂ pollution levels across Victorian suburbs using EPA datasets.
+
+
+
+
+
+--- 
+
 ## 🧾 Publications
 
 ### 🧠 Journal Articles

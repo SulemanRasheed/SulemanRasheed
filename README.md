@@ -1,17 +1,15 @@
-<!--
-# Suleman Rasheed  
-*📍 Melbourne, Australia*  
+# 🧠 Suleman Rasheed  
+**Biomedical Engineer | Data Scientist**  
+📍 *Melbourne, Australia*  
 ✉️ [SulemanRasheedEngr@gmail.com](mailto:SulemanRasheedEngr@gmail.com) • 📞 +61 467 027 013  
 🔗 [LinkedIn](https://www.linkedin.com/in/suleman-rasheed/) • [GitHub](https://github.com/SulemanRasheed) • [Google Scholar](https://scholar.google.com/citations?user=wUt7qi0AAAAJ&hl=en)
 
 ---
 
 ### 🧭 Navigation  
-[About](#about) • [Skills](#-skills) • [Education](#-education) • [Experience](#-experience) • [Projects](#-portfolio-projects) • [Publications](#-publications) • [Awards](#-honours--awards) • [Memberships](#-professional-memberships) • [Contact](#-lets-connect)
+[About](#about) • [Skills](#skills) • [Education](#education) • [Experience](#experience) • [Projects](#portfolio-projects) • [Publications](#publications) • [Awards](#honours--awards) • [Memberships](#professional-memberships) • [Contact](#lets-connect)
 
 ---
-
--->
 
 ## 🧍 About
 
@@ -22,8 +20,8 @@ He is an expert in designing and deploying **end-to-end predictive pipelines**, 
 
 ## 🧩 Skills
 
-| Area | Tools & Technologies |
-|------|----------------------|
+| **Area** | **Tools & Technologies** |
+|-----------|--------------------------|
 | **Programming** | Python, R, C/C++, SQL |
 | **Machine Learning** | Scikit-learn, PyTorch, TensorFlow, Keras, Pandas, NumPy |
 | **Deployment** | Git, CI/CD, Docker, Kubernetes, FastAPI, MLflow |
@@ -37,7 +35,7 @@ He is an expert in designing and deploying **end-to-end predictive pipelines**, 
 
 **PhD – Engineering and IT**  
 *The University of Melbourne* | *2021 – 2025*  
-📄 *Thesis:* “Decoding Eye Movements using an Endovascular Brain-Computer Interface”  
+📄 *Thesis:* “Decoding Eye Movements using an Endovascular Brain-Computer Interface”
 
 **BS – Electrical Engineering**  
 *Pakistan Institute of Engineering and Applied Sciences* | *2015 – 2019*  
@@ -47,28 +45,27 @@ He is an expert in designing and deploying **end-to-end predictive pipelines**, 
 
 ## 💼 Experience
 
-### **Data Scientist – School of Sufi Teachings (Pro Bono)**  
+### 🧘‍♂️ Data Scientist – School of Sufi Teachings *(Pro Bono)*  
 *Melbourne, Australia | Mar 2025 – Present*  
 - Analysed wearable (ECG, fitness tracker, sleep), survey, and interview data across international cohorts.  
-- Generated insights on meditation and wellbeing that supported competitive grant proposals worth \$625k (Qatar Spark Award & Templeton Foundation).
+- Generated insights on meditation and wellbeing that supported competitive grant proposals worth **\$625k** (Qatar Spark Award & Templeton Foundation).
 
-### **Data Scientist Intern – Synchron Inc.**  
+### 🧠 Data Scientist Intern – Synchron Inc.  
 *Melbourne, Australia | Mar 2023 – Mar 2024*  
 - Developed real-time multimodal data acquisition pipelines integrating **brain**, **eye-tracking**, and **camera** signals.  
-- Designed a **cardiac artefact-removal algorithm** improving neural decoding accuracy by 18%, adopted internally and published in *IEEE BCI Conference 2024*.
+- Designed a **cardiac artefact-removal algorithm** improving neural decoding accuracy by **18%**, adopted internally and published at *IEEE BCI Conference 2024*.
 
-### **Research Assistant – National University of Sciences & Technology (NUST)**  
+### 🔬 Research Assistant – National University of Sciences & Technology (NUST)  
 *Islamabad, Pakistan | Mar 2020 – Apr 2021*  
-- Reviewed **EEG denoising algorithms** and authored community guidelines for neurotechnology applications (*Biomedical Signal Processing & Control* Journal).  
-- Built **machine-learning models** predicting imagined hand movements in stroke patients, achieving 85% accuracy (*IEEE ICAI 2021*).
+- Reviewed **EEG denoising algorithms** and authored community guidelines for neurotechnology applications (*Biomedical Signal Processing & Control*, 2021).  
+- Built **machine-learning models** predicting imagined hand movements in stroke patients, achieving **85% accuracy** (*IEEE ICAI 2021*).
 
 ---
 
 ## 🧠 Portfolio Projects
 
 ### 1️⃣ Monash Health Surgery Wait Times Dashboard  
-
-This **Power BI** dashboard presents a side-by-side comparison of elective surgery wait times across urgent, semi-urgent, and non-urgent categories at Monash Health (2018–2023).  
+This **Power BI** dashboard presents a side-by-side comparison of elective surgery wait times across urgent, semi-urgent, and non-urgent categories at **Monash Health (2018–2023)**.  
 It enables rapid comparison of volumes, wait times, and compliance rates — providing stakeholders with actionable insights for operational and clinical decision-making.
 
 ![Monash Health Surgery Wait Times Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Monash%20Health%20Surgery%20Wait%20Times%20Dashboard.png?raw=true)
@@ -79,9 +76,9 @@ It enables rapid comparison of volumes, wait times, and compliance rates — pro
 ---
 
 ### 2️⃣ Victoria EPA Air Quality Dashboard  
-
-An interactive **R Shiny** application visualising EPA Victoria’s 2024 air quality data. Users can select a **suburb** and **pollutant** to explore daily trends via a calendar-style heatmap.  
-Built using open data from EPA Victoria, the dashboard supports public awareness and environmental policy insights.
+An interactive **R Shiny** application visualising EPA Victoria’s 2024 air quality data.  
+Users can select a **suburb** and **pollutant** to explore daily trends via a calendar-style heatmap.  
+Built using open data from EPA Victoria, the dashboard supports public awareness and **environmental policy insights**.
 
 ![Victoria EPA Air Quality Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Victoria%20EPA%20Air%20Quality%20Dashboard.png?raw=true)
 
@@ -92,8 +89,7 @@ Built using open data from EPA Victoria, the dashboard supports public awareness
 ---
 
 ### 3️⃣ Healthcare Financial Dashboard  
-
-An interactive **Power BI** dashboard visualizing healthcare billing data across Australian cities, procedures, and demographics.  
+An interactive **Power BI** dashboard visualising healthcare billing data across Australian cities, procedures, and demographics.  
 It uncovers insights on treatment costs, insurance coverage, and out-of-pocket expenses — enabling hospital administrators and researchers to explore disparities and regional trends.
 
 ![Healthcare Financial Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Healthcare%20Financial%20Dashboard.png?raw=true)
@@ -103,7 +99,6 @@ It uncovers insights on treatment costs, insurance coverage, and out-of-pocket e
 ---
 
 ### 4️⃣ Predicting Hand Movements of Stroke Patients from Brain Signals  
-
 This study benchmarked multiple EEG-based brain–computer interface (BCI) pipelines for classifying hand-grasp intentions in stroke patients.  
 Using **Python** (NumPy, SciPy, MNE, scikit-learn), I implemented five algorithms — from classical signal processing (Wavelet Transform, PSD) to **motor imagery methods (CSP, FBCSP)** and the deep-learning-based **EEGNet**.
 
@@ -162,11 +157,10 @@ This benchmark supports the design of **assistive robotic and rehabilitation BCI
 - Graeme Clark Institute for Biomedical Engineering, The University of Melbourne  
 - Brain–Computer Interface Society (BCI)  
 - Institute of Electrical and Electronics Engineers (IEEE)  
-- IEEE Engineering in Medicine and Biology Society (EMBS)  
+- IEEE Engineering in Medicine and Biology Society (EMBS)
 
 ---
 
 ## 📫 Let’s Connect
-
 I’m open to collaborations and data-driven projects in health, research, or AI innovation.  
 ➡️ [**LinkedIn**](https://www.linkedin.com/in/suleman-rasheed/) • [**GitHub**](https://github.com/SulemanRasheed) • [**Google Scholar**](https://scholar.google.com/citations?user=wUt7qi0AAAAJ&hl=en)

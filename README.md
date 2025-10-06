@@ -23,11 +23,11 @@ Based in Melbourne, Australia, Suleman is seeking opportunities as a Data Scient
 
 **PhD – Engineering and IT**  
 *The University of Melbourne | 2021 – 2025*  
-Thesis: “Decoding Eye Movements using an Endovascular Brain–Computer Interface”
+Thesis: Decoding Eye Movements using an Endovascular Brain–Computer Interface
 
 **BS – Electrical Engineering**  
 *Pakistan Institute of Engineering and Applied Sciences | 2015 – 2019*  
-Thesis: “Driver Drowsiness Detection using Lightweight Deep Convolutional Neural Networks”
+Thesis: Driver Drowsiness Detection using Lightweight Deep Convolutional Neural Networks
 
 ---
 

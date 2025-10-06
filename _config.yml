@@ -10,6 +10,7 @@ logo : /images/Profile_Pic.jpg
 title: Suleman Rasheed
 description: Biomedical Engineer | Data Scientist
 theme: jekyll-theme-cayman
+google_analytics: G-FWC3J5C41R
 markdown: kramdown
 kramdown:
   input: GFM

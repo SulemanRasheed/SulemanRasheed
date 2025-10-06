@@ -67,22 +67,20 @@ Pipeline comparing multiple referencing and artifact removal strategies for endo
 ![Decoding Eye Movements](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Decoding%20Eye%20Movements%20from%20Brain%20Signals.png?raw=true)  
 Classification of horizontal and vertical saccadic eye movements recorded by the Stentrode™ neural interface.  
 **Publication:** [Journal of Neural Engineering, 2025](https://iopscience.iop.org/article/10.1088/1741-2552/ae0f52)  
-**Code:** [GitHub Repository](https://github.com/SulemanRasheed/Stentrode-Eye-Movement-BCI)
 
 ---
 
 ### 3. EEG Hand Grasp Classification  
 ![EEG Hand Grasp](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/EEG%20Hand%20Grasp%20Classification%20.png?raw=true)  
 Feature extraction and model comparison for motor imagery EEG data using CSP, PSD, and deep learning models.  
-**Publication:** [IEEE EMBC Poster, 2023]([https://embc.embs.org/2023](https://ieeexplore.ieee.org/document/9445231))  
+**Publication:** [IEEE International Conference on Artificial Intelligence (ICAI), 2021]([https://embc.embs.org/2023](https://ieeexplore.ieee.org/document/9445231))  
 **Code:** [GitHub Repository](https://github.com/SulemanRasheed/EEG-Hand-Grasp-Classification)
 
 ---
 
 ### 4. Healthcare Financial Dashboard  
 ![Healthcare Financial Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Healthcare%20Financial%20Dashboard.png?raw=true)  
-Interactive Power BI dashboard summarizing billing, treatment costs, and insurance coverage across Australian healthcare providers.  
-**Dashboard:** [View Power BI Report](https://app.powerbi.com/view?r=example-healthcare-dashboard)  
+Interactive Power BI dashboard summarizing billing, treatment costs, and insurance coverage across Australian healthcare providers.   
 **Code:** [GitHub Repository](https://github.com/SulemanRasheed/Healthcare-Financial-Dashboard)
 
 ---
@@ -90,7 +88,6 @@ Interactive Power BI dashboard summarizing billing, treatment costs, and insuran
 ### 5. Monash Health Surgery Wait Times Dashboard  
 ![Monash Health Surgery Wait Times Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Monash%20Health%20Surgery%20Wait%20Times%20Dashboard.png?raw=true)  
 Power BI dashboard analysing elective surgery wait times by urgency, department, and year at Monash Health.  
-**Dashboard:** [View Power BI Report](https://app.powerbi.com/view?r=example-monash-health-dashboard)  
 **Code:** [GitHub Repository](https://github.com/SulemanRasheed/Monash-Health-Surgery-Wait-Times)
 
 ---
@@ -98,8 +95,8 @@ Power BI dashboard analysing elective surgery wait times by urgency, department,
 ### 6. Victoria EPA Air Quality Dashboard  
 ![Victoria EPA Air Quality Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Victoria%20EPA%20Air%20Quality%20Dashboard.png?raw=true)  
 R Shiny dashboard visualising daily NO₂ pollution levels across Victorian suburbs using Environment Protection Authority (EPA) datasets.  
-**Dashboard:** [Live App (Shiny)](https://sulemanrasheed.shinyapps.io/VictoriaEPA-AirQuality/)  
-**Code:** [GitHub Repository](https://github.com/SulemanRasheed/VictoriaEPA-AirQuality)
+**Dashboard:** [Live App (Shiny)](https://sulemanrasheed.shinyapps.io/VictoriaEPA-AirQuality/)
+**Code:** [GitHub Repository](https://github.com/SulemanRasheed/Victoria_Air_Quality_EPA_2024_Data)
 
 
 

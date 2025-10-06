@@ -1,6 +1,6 @@
 ## About
 
-Suleman Rasheed is a Data Sciene Expert (PhD) with six years of academic and over two years of professional experience in machine learning, Python, and healthcare analytics.
+Suleman Rasheed is a **Data Science Expert (PhD)** with six years of academic and over two years of professional experience in machine learning, Python, and healthcare analytics.
 He designs and deploys end-to-end predictive pipelines that deliver measurable real-world impact across biomedical, behavioural, and research domains.
 
 Based in Melbourne, Australia, Suleman is open to collaborations and data-driven projects in health, research, and AI innovation.

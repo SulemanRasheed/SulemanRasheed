@@ -84,7 +84,7 @@ Power BI dashboard analysing elective surgery wait times by urgency, department,
 ### 3. Victoria EPA Air Quality Dashboard  
 This interactive R Shiny application visualises EPA Victoria’s 2024 air quality data. It allows users to select a **suburb** and **pollutant** to explore daily pollutant levels throughout the year, presented in an intuitive calendar-style heatmap. 
 
-EPA Victoria (Environment Protection Authority Victoria) is the environmental regulator for the state of Victoria, Australia. It monitors and reports on air, water, and land quality to protect public health and the environment. The air quality data used in this dashboard is sourced from EPA Victoria’s publicly available monitoring stations. The Data can be obtained from EPA's official [website](https://discover.data.vic.gov.au/dataset/epa-air-watch-all-sites-air-quality-hourly-averages-yearly).
+EPA Victoria (Environment Protection Authority Victoria) is the environmental regulator for the state of Victoria, Australia. It monitors and reports on air, water, and land quality to protect public health and the environment. The air quality data used in this dashboard is sourced from EPA Victoria’s publicly available monitoring stations. 
 
 ![Victoria EPA Air Quality Dashboard](https://github.com/SulemanRasheed/SulemanRasheed.github.io/blob/main/images/Victoria%20EPA%20Air%20Quality%20Dashboard.png?raw=true)  
 

@@ -139,9 +139,9 @@ This benchmark supports the development of assistive robotic and rehabilitation 
 
 **Journal Articles**
 
-- Suleman Rasheed, James Bennett, Peter Yoo, Anthony Burkitt, David Grayden.
-  *Decoding Saccadic Eye Movements from Brain Signals Using an Endovascular Neural Interface.*
-  [*Journal of Neural Engineering, 2025*](https://iopscience.iop.org/article/10.1088/1741-2552/ae0f52)
+Suleman Rasheed, James Bennett, Peter Yoo, Anthony Burkitt, David Grayden
+*Decoding Saccadic Eye Movements from Brain Signals Using an Endovascular Neural Interface*  
+[*Journal of Neural Engineering, 2025*](https://iopscience.iop.org/article/10.1088/1741-2552/ae0f52)
 
 - Wajid Mumtaz, Suleman Rasheed, Alina Irfan.
   *Review of Challenges Associated with EEG Artefact Removal Methods.*

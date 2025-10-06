@@ -1,3 +1,7 @@
+---
+title: "Suleman Rasheed"
+---
+
 ## About
 
 Suleman Rasheed is a **Data Science Expert (PhD)** with six years of academic and over two years of professional experience in machine learning, Python, and healthcare analytics.

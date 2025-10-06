@@ -1,14 +1,5 @@
-<!--
 # Suleman Rasheed  
-📍 Melbourne, Australia | 📞 +61 467 027 013 | ✉️ [SulemanRasheedEngr@gmail.com](mailto:SulemanRasheedEngr@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/suleman-rasheed/) • [GitHub](https://github.com/SulemanRasheed) • [Google Scholar](https://scholar.google.com/citations?user=wUt7qi0AAAAJ&hl=en)
----
--->
-
-<div align="center">
-
-# **Suleman Rasheed**
-📍 *Melbourne, Australia*  
+*📍 Melbourne, Australia*  
 ✉️ [SulemanRasheedEngr@gmail.com](mailto:SulemanRasheedEngr@gmail.com) • 📞 +61 467 027 013  
 🔗 [LinkedIn](https://www.linkedin.com/in/suleman-rasheed/) • [GitHub](https://github.com/SulemanRasheed) • [Google Scholar](https://scholar.google.com/citations?user=wUt7qi0AAAAJ&hl=en)
 
@@ -18,8 +9,6 @@
 [About](#about) • [Skills](#-skills) • [Education](#-education) • [Experience](#-experience) • [Projects](#-portfolio-projects) • [Publications](#-publications) • [Awards](#-honours--awards) • [Memberships](#-professional-memberships) • [Contact](#-lets-connect)
 
 ---
-
-</div>
 
 ## 🧍 About
 

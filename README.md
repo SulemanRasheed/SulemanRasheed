@@ -53,7 +53,7 @@ He is an expert in designing and deploying **end-to-end predictive pipelines**, 
 - Built **machine-learning models** predicting imagined hand movements in stroke patients, achieving 85 % accuracy (*IEEE ICAI 2021*).
 
 ---
-## 🧠 Research & Data Science Portfolio
+## 🧠 Portfolio Projects
 
 ### 1. Monash Health Surgery Wait Times Dashboard  
 

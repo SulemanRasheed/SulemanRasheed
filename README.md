@@ -212,6 +212,22 @@ Wajid Mumtaz, Suleman Rasheed, Alina Irfan.
 
 ---
 
+
+
+## Honours & Awards
+- PhD Write-up Award, The University of Melbourne (2025)
+- Australian Research Council Industrial Transformative Tranining Centre (ARC ITTC) Travel Grant, The University of Melbourne (2024)
+- Faculty of Engineering and IT Conference Travel Grant, The University of Melbourne (2023 & 2024)
+- BME GR Conference Attendance Award, The University of Melbourne (2022)
+- ARC ITTC Top-up Scholarship, The University of Melbourne (2021)
+- Melbourne Research Scholarship, The University of Melbourne (2021)
+- First Rank, National Testing Service (NTS) Graduate Entrance Exam, Pakistan (2021)
+- Gold Medal & Cash Prize, Distinction in HSSC Exams, Read Foundation College, Pakistan (2015)
+- Laptop & Gold Medal, Distinction in SSC Exams, Government of Pakistan (2013)
+
+---
+
+
 ## Professional Memberships
 
 <details>
